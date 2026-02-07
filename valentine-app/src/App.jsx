@@ -91,6 +91,8 @@ export default function App() {
     moveNoButton()
   }, [])
 
+  
+
   return (
     <div className="app">
       <div className="gradient-bg" />
@@ -166,7 +168,7 @@ export default function App() {
               <div className="invite-divider" aria-hidden="true" />
               <p>
                 Хайр, халамжаар бялхсан Гэгээн Валентины өдрийг тохиолдуулан
-                2026 оны 2 сарын 14-ний өдөр, 19:00 цагт
+                2026 оны 2 сарын 14-ний өдөр
                 манай гэрт болох хүндэтгэлийн уулзалтад
                 Таныг хүрэлцэн ирэхийг урьж байна.
               </p>
